@@ -1,0 +1,12 @@
+Tables_in_chinook
+album
+artist
+customer
+employee
+genre
+invoice
+invoiceline
+mediatype
+playlist
+playlisttrack
+track
